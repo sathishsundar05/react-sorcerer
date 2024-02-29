@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+.flex {
+  display: flex;
+}
+.space-between {
+  justify-content: space-between;
+}
+.justify-content-end {
+    justify-content: end;
+}
+.align-center {
+    align-items: center;
+}
+.text-center {
+    text-align: center;
+}
+.w-10 {
+    width: 10%;
+}
+.w-90 {
+    width: 90%;
+}
+.px-20 {
+    padding: 0 1.3rem
+}
+.py-4 {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+}
